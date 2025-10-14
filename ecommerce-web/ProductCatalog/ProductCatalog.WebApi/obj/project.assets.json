@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj",
+      "projectUniqueName": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj",
       "projectName": "ProductCatalog.WebApi",
-      "projectPath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj",
+      "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj",
       "packagesPath": "/Users/larusthor/.nuget/packages/",
-      "outputPath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.WebApi/obj/",
+      "outputPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/larusthor/.nuget/NuGet/NuGet.Config"
@@ -829,14 +829,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj": {
-              "projectPath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj"
+            "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj": {
+              "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj"
             },
-            "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Repositories/ProductCatalog.Repositories.csproj": {
-              "projectPath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Repositories/ProductCatalog.Repositories.csproj"
+            "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Repositories/ProductCatalog.Repositories.csproj": {
+              "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Repositories/ProductCatalog.Repositories.csproj"
             },
-            "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj": {
-              "projectPath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj"
+            "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj": {
+              "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj"
             }
           }
         }

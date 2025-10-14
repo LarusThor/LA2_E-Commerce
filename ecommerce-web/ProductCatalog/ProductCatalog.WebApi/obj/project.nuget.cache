@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VD/9lMwJhos=",
+  "dgSpecHash": "tAj7xqPawX4=",
   "success": true,
-  "projectFilePath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj",
+  "projectFilePath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/larusthor/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
     "/Users/larusthor/.nuget/packages/microsoft.entityframeworkcore/9.0.9/microsoft.entityframeworkcore.9.0.9.nupkg.sha512",
