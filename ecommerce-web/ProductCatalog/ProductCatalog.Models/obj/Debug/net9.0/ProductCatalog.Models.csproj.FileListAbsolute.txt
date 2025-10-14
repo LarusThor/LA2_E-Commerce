@@ -1,0 +1,11 @@
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.deps.json
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.dll
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.pdb
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.AssemblyInfoInputs.cache
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.AssemblyInfo.cs
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.csproj.CoreCompileInputs.cache
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.dll
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/refint/ProductCatalog.Models.dll
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.pdb
+/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ref/ProductCatalog.Models.dll
