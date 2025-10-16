@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/larusthor/.nuget/packages/": {}
+    "C:\\Users\\Setup\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\ProductCatalog\\ProductCatalog.Models\\ProductCatalog.Models.csproj",
       "projectName": "ProductCatalog.Models",
-      "projectPath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj",
-      "packagesPath": "/Users/larusthor/.nuget/packages/",
-      "outputPath": "/Users/larusthor/RiderProjects/ProductCatalog/ProductCatalog.Models/obj/",
+      "projectPath": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\ProductCatalog\\ProductCatalog.Models\\ProductCatalog.Models.csproj",
+      "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\ProductCatalog\\ProductCatalog.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/larusthor/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Setup\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

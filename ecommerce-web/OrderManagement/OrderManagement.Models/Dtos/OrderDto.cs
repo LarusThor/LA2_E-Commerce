@@ -10,11 +10,11 @@ public class OrderDto
     
     public ICollection<OrderItem> Items { get; set; } = new List<OrderItem>();
     
-    public decimal Total { get; set; }
+    public decimal totalAmount { get; set; }
     
     public string status { get; set; }
     
-    public ShippingAddress ShippingAddress { get; set; }
+    public ShippingAddress shippingAddress { get; set; }
     
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     

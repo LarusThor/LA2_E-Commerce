@@ -809,19 +809,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/larusthor/.nuget/packages/": {}
+    "C:\\Users\\Setup\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.WebApi/OrderManagement.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.WebApi\\OrderManagement.WebApi.csproj",
       "projectName": "OrderManagement.WebApi",
-      "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.WebApi/OrderManagement.WebApi.csproj",
-      "packagesPath": "/Users/larusthor/.nuget/packages/",
-      "outputPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.WebApi/obj/",
+      "projectPath": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.WebApi\\OrderManagement.WebApi.csproj",
+      "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/larusthor/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Setup\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -833,14 +833,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj": {
-              "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj"
+            "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.Models\\OrderManagement.Models.csproj": {
+              "projectPath": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.Models\\OrderManagement.Models.csproj"
             },
-            "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Repositories/OrderManagement.Repositories.csproj": {
-              "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Repositories/OrderManagement.Repositories.csproj"
+            "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.Repositories\\OrderManagement.Repositories.csproj": {
+              "projectPath": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.Repositories\\OrderManagement.Repositories.csproj"
             },
-            "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Services/OrderManagement.Services.csproj": {
-              "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Services/OrderManagement.Services.csproj"
+            "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.Services\\OrderManagement.Services.csproj": {
+              "projectPath": "C:\\Users\\Setup\\Documents\\LA2_E-Commerce\\ecommerce-web\\OrderManagement\\OrderManagement.Services\\OrderManagement.Services.csproj"
             }
           }
         }
@@ -885,7 +885,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

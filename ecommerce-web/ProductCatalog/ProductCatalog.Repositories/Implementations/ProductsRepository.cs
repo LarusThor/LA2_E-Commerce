@@ -51,6 +51,7 @@ public class ProductsRepository : IProductsRepository
     {
         _dbContext.Products.Add(new Product()
         {
+            // Handle ID incrementation
             name = product.name,
             description = product.description,
             price = product.price,
