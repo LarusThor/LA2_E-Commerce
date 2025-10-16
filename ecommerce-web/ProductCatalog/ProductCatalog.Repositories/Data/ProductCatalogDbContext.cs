@@ -10,7 +10,7 @@ public class ProductCatalogDbContext : DbContext, IProductCatalogDbContext
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     { 
-        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=ProductCatalogDb;Username=postgres;Password=postgres");
+        optionsBuilder.UseNpgsql("Host=postgres;Port=5432;Database=ecommerce;Username=postgres;Password=postgres");
     }
     
     public DbSet<Product> Products { get; set; }

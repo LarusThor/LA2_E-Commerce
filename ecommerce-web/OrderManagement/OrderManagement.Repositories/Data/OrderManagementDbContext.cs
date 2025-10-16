@@ -9,7 +9,7 @@ public class OrderManagementDbContext : DbContext, IOrderManagementDbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=OrderManagementDb;Username=postgres;Password=postgres");
+        optionsBuilder.UseNpgsql("Host=postgres;Port=5432;Database=ecommerce;Username=postgres;Password=postgres");
     }
 
     public DbSet<Order> Orders { get; set;}

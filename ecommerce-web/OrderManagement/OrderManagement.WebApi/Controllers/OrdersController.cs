@@ -35,12 +35,11 @@ public class OrderController : ControllerBase
         return Ok(order);
     }
 
-    [HttpGet("orders/users/{username:string}")]
+    [HttpGet("users/{username}")]
     public IActionResult getOrderForUser(string username)
     {
         var orders = _orderService.getOrderForUser(username);
         return Ok(orders);
     }
-
 
 }
