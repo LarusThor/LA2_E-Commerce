@@ -50,6 +50,20 @@ public class OrdersRepository : IOrdersRepository
             });
         return query.ToList();
     }
+
+    public IEnumerable<OrderDto> getOrderForUser(string username)
+    {
+        return _dbContext.Orders
+            .Where(o => o.EmailAddress == email)
+            .Select(o => new OrderSummaryDto
+            {
+                id = o.id,
+                totalAmount = o.totalAmount,
+                status = o.status,
+                createdAt = o.createdAt,
+            })
+            .toList();
+    }
     
     public async Task<bool> CreateOrder(OrderInputModel orderInput)
     {
