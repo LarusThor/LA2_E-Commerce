@@ -14,6 +14,7 @@
     <ProjectReference Include="..\OrderManagement.Models\OrderManagement.Models.csproj" />
     <ProjectReference Include="..\OrderManagement.Repositories\OrderManagement.Repositories.csproj" />
     <ProjectReference Include="..\OrderManagement.Services\OrderManagement.Services.csproj" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.9"/>
   </ItemGroup>
 
 </Project>

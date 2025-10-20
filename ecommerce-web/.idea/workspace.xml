@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2abc1077-c88d-474c-ac57-d637f92cde83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/Dtos/OrderSummaryDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/Dtos/OrderSummaryDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/InputModels/OrderInputModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/InputModels/OrderInputModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/Debug/net9.0/OrderManagement.Models.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/OrderManagement.Models.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/OrderManagement.Models.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/OrderManagement.Models.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/OrderManagement.Models.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/OrderManagement.Models.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/OrderManagement.Models.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Models/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/Data/OrderManagementDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/Data/OrderManagementDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/Implementations/OrdersRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/Implementations/OrdersRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/Interfaces/IOrdersRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/Interfaces/IOrdersRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/Debug/net9.0/OrderManagement.Repositories.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/OrderManagement.Repositories.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/OrderManagement.Repositories.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/OrderManagement.Repositories.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/OrderManagement.Repositories.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/OrderManagement.Repositories.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/OrderManagement.Repositories.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/Implementations/OrdersService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/Implementations/OrdersService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/Interfaces/IOrdersService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/Interfaces/IOrdersService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/Debug/net9.0/OrderManagement.Services.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/OrderManagement.Services.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/OrderManagement.Services.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/OrderManagement.Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/OrderManagement.Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/OrderManagement.Services.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/OrderManagement.Services.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.Services/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/OrderManagement.WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/OrderManagement.WebApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/OrderManagement.WebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/OrderManagement.WebApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/OrderManagement.WebApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/OrderManagement.WebApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/OrderManagement.WebApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/OrderManagement.WebApi.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/Entities/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/Entities/Category.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/Entities/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/Entities/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/bin/Debug/net9.0/ProductCatalog.Models.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ProductCatalog.Models.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ref/ProductCatalog.Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/ref/ProductCatalog.Models.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/refint/ProductCatalog.Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/Debug/net9.0/refint/ProductCatalog.Models.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/ProductCatalog.Models.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/ProductCatalog.Models.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/ProductCatalog.Models.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/ProductCatalog.Models.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/ProductCatalog.Models.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/ProductCatalog.Models.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/Data/ProductCatalogDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/Data/ProductCatalogDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/ProductCatalog.Repositories.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/ProductCatalog.Repositories.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Models.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Models.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Repositories.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Repositories.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Repositories.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Repositories.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Repositories.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/bin/Debug/net9.0/ProductCatalog.Repositories.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ProductCatalog.Repositories.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ref/ProductCatalog.Repositories.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/ref/ProductCatalog.Repositories.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/refint/ProductCatalog.Repositories.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/Debug/net9.0/refint/ProductCatalog.Repositories.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/ProductCatalog.Repositories.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/ProductCatalog.Repositories.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/ProductCatalog.Repositories.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/ProductCatalog.Repositories.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/ProductCatalog.Repositories.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/ProductCatalog.Repositories.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Models.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Models.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Repositories.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Repositories.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Repositories.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Repositories.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Services.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Services.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/bin/Debug/net9.0/ProductCatalog.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ref/ProductCatalog.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ref/ProductCatalog.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/refint/ProductCatalog.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/refint/ProductCatalog.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/ProductCatalog.Services.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/ProductCatalog.Services.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/ProductCatalog.Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/ProductCatalog.Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/ProductCatalog.Services.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/ProductCatalog.Services.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/ProductCatalog.WebApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Models.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Models.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Repositories.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Repositories.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Repositories.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Repositories.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.WebApi.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.WebApi.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/ProductCatalog.WebApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ref/ProductCatalog.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ref/ProductCatalog.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/refint/ProductCatalog.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/refint/ProductCatalog.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/ProductCatalog.WebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/ProductCatalog.WebApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/ProductCatalog.WebApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/ProductCatalog.WebApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/ProductCatalog.WebApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/ProductCatalog.WebApi.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductCatalog/ProductCatalog.WebApi/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OrderManagement/OrderManagement.Repositories/Data/OrderManagementDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/Controllers/OrdersController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderManagement/OrderManagement.WebApi/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProductCatalog/ProductCatalog.Models/Entities/Product.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProductCatalog/ProductCatalog.Repositories/Data/ProductCatalogDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProductCatalog/ProductCatalog.Services/obj/Debug/net9.0/ProductCatalog.Services.GlobalUsings.g.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="34KK9G2boLsNtoKkxpG7plbokBd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Larus",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.Next.js: server-side.executor": "Run",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2abc1077-c88d-474c-ac57-d637f92cde83" name="Changes" comment="" />
+      <created>1760956669098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760956669098</updated>
+      <workItem from="1760956670208" duration="3683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -34,7 +34,7 @@ public class OrdersRepository : IOrdersRepository
         return order;
     }
 
-    public IEnumerable<OrderDto> getAllOrders(OrderInputModel order)
+    public IEnumerable<OrderDto> getAllOrders()
     {
         var query = _dbContext.Orders
             .Select(o => new OrderDto()
@@ -51,25 +51,25 @@ public class OrdersRepository : IOrdersRepository
         return query.ToList();
     }
 
-    public IEnumerable<OrderDto> getOrderForUser(string username)
+    public IEnumerable<OrderSummaryDto> getOrderForUser(string username)
     {
         return _dbContext.Orders
-            .Where(o => o.EmailAddress == email)
+            .Where(o => o.emailAddress == username)
             .Select(o => new OrderSummaryDto
             {
                 id = o.id,
                 totalAmount = o.totalAmount,
                 status = o.status,
-                createdAt = o.createdAt,
+                CreatedAt = o.CreatedAt,
             })
-            .toList();
+            .ToList();
     }
     
     public async Task<bool> CreateOrder(OrderInputModel orderInput)
     {
         var order = new Order
         {
-            emailAddress = orderInput.EmailAddress,
+            emailAddress = orderInput.emailAddress,
             shippingAddress = new ShippingAddress
             {
                 Street = orderInput.ShippingAddress.Street,

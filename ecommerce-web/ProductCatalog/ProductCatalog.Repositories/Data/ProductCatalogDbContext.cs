@@ -8,11 +8,6 @@ public class ProductCatalogDbContext : DbContext, IProductCatalogDbContext
     public ProductCatalogDbContext(DbContextOptions<ProductCatalogDbContext> options)
         : base(options){}
     
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    { 
-        optionsBuilder.UseNpgsql("Host=postgres;Port=5432;Database=ecommerce;Username=postgres;Password=postgres");
-    }
-    
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
 }

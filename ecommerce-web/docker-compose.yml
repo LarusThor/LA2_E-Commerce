@@ -1,0 +1,49 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ecommerce
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - ecommerce_network
+
+  productcatalogapi:
+    build:
+      context: ./ProductCatalog
+      dockerfile: ProductCatalog.WebApi/Dockerfile
+    container_name: productcatalogapi
+    environment:
+      - CONNECTION_STRING=Host=postgres;Port=5432;Database=ecommerce;Username=postgres;Password=postgres
+    depends_on:
+      - postgres
+    ports:
+      - "5001:8080"
+    networks:
+      - ecommerce_network
+
+  ordermanagementapi:
+    build:
+      context: ./OrderManagement
+      dockerfile: OrderManagement.WebApi/Dockerfile
+    container_name: ordermanagementapi
+    environment:
+      - CONNECTION_STRING=Host=postgres;Port=5432;Database=ecommerce;Username=postgres;Password=postgres
+    depends_on:
+      - postgres
+    ports:
+      - "5002:8080"
+    networks:
+      - ecommerce_network
+
+volumes:
+  postgres_data:
+
+networks:
+  ecommerce_network:

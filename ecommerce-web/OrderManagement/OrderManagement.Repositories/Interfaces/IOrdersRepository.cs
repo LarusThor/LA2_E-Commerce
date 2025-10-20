@@ -8,9 +8,9 @@ public interface IOrdersRepository
     public OrderDto getOrderById(int id);
 
 
-    public IEnumerable<OrderDto> getAllOrders(OrderInputModel order);
+    public IEnumerable<OrderDto> getAllOrders();
 
-    public IEnumerable<OrderDto> getOrderForUser(string username);
+    public IEnumerable<OrderSummaryDto> getOrderForUser(string username);
     
     public Task<bool> CreateOrder(OrderInputModel order);
 }

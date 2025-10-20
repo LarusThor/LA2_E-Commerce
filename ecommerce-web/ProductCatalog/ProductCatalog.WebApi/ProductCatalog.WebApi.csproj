@@ -14,6 +14,10 @@
       <ProjectReference Include="..\ProductCatalog.Models\ProductCatalog.Models.csproj" />
       <ProjectReference Include="..\ProductCatalog.Repositories\ProductCatalog.Repositories.csproj" />
       <ProjectReference Include="..\ProductCatalog.Services\ProductCatalog.Services.csproj" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.9" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.9" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.9" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.9" />
     </ItemGroup>
 
 </Project>
