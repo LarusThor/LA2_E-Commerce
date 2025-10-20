@@ -324,3 +324,14 @@
 /Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.pdb
 /Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ProductCatalog.WebApi.genruntimeconfig.cache
 /Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/obj/Debug/net9.0/ref/ProductCatalog.WebApi.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll

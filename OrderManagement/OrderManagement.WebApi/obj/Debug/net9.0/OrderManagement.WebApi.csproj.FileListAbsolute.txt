@@ -272,3 +272,14 @@
 /Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.pdb
 /Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/OrderManagement.WebApi.genruntimeconfig.cache
 /Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/obj/Debug/net9.0/ref/OrderManagement.WebApi.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll

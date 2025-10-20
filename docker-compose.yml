@@ -21,6 +21,8 @@ services:
     container_name: productcatalogapi
     environment:
       - CONNECTION_STRING=Host=postgres;Port=5432;Database=ecommerce;Username=postgres;Password=postgres
+      - Auth0__Domain=https://dev-6n3hx25qzf882vz1.eu.auth0.com
+      - Auth0__Audience=https://productcatalog.api
     depends_on:
       - postgres
     ports:
@@ -35,10 +37,32 @@ services:
     container_name: ordermanagementapi
     environment:
       - CONNECTION_STRING=Host=postgres;Port=5432;Database=ecommerce;Username=postgres;Password=postgres
+      - Auth0__Domain=https://dev-6n3hx25qzf882vz1.eu.auth0.com
+      - Auth0__Audience=https://ordermanagement.api
     depends_on:
       - postgres
     ports:
       - "5002:8080"
+    networks:
+      - ecommerce_network
+
+  gatewayapi:
+    build:
+      context: ./GatewayAPI
+      dockerfile: Dockerfile
+    container_name: gatewayapi
+    environment:
+      - Auth0__Domain=https://dev-6n3hx25qzf882vz1.eu.auth0.com
+      - Auth0__Audience=https://gateway.api
+      - Auth0__ClientId=BxsnQXweQ9pqxvSbIhw6ksgH9jsgeXba
+      - Auth0__ClientSecret=K7t9Q9N2HmZBz20WcrhhFxko-YGGwLyvbtNlz26bk0M2fVXKS0dwRgZtuc5BEzm-
+      - Auth0__OrderManagementAudience=https://ordermanagement.api
+      - Auth0__ProductCatalogAudience=https://productcatalog.api
+    depends_on:
+      - ordermanagementapi
+      - productcatalogapi
+    ports:
+      - "5000:8080"
     networks:
       - ecommerce_network
 

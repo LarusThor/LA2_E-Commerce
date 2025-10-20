@@ -8,7 +8,7 @@ public class OrderDto
     
     public string emailAddress { get; set; }
     
-    public ICollection<OrderItem> Items { get; set; } = new List<OrderItem>();
+    public ICollection<OrderByIdDto> Items { get; set; } = new List<OrderByIdDto>();
     
     public decimal totalAmount { get; set; }
     
