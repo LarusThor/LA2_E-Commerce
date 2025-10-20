@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hXR9znyCrr4=",
+  "dgSpecHash": "oV4ZFje90XY=",
   "success": true,
-  "projectFilePath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj",
+  "projectFilePath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj",
   "expectedPackageFiles": [
     "/Users/larusthor/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/larusthor/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

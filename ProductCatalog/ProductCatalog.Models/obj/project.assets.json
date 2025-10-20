@@ -2757,11 +2757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj",
+      "projectUniqueName": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj",
       "projectName": "ProductCatalog.Models",
-      "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj",
+      "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.Models/ProductCatalog.Models.csproj",
       "packagesPath": "/Users/larusthor/.nuget/packages/",
-      "outputPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Models/obj/",
+      "outputPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/larusthor/.nuget/NuGet/NuGet.Config"

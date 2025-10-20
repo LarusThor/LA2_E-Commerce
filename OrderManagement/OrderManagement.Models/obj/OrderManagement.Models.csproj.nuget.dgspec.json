@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj": {}
+    "/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj": {}
   },
   "projects": {
-    "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj": {
+    "/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj",
+        "projectUniqueName": "/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj",
         "projectName": "OrderManagement.Models",
-        "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj",
+        "projectPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.Models/OrderManagement.Models.csproj",
         "packagesPath": "/Users/larusthor/.nuget/packages/",
-        "outputPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.Models/obj/",
+        "outputPath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/larusthor/.nuget/NuGet/NuGet.Config"

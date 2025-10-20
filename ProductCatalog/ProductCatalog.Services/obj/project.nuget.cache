@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z35xA1In63A=",
+  "dgSpecHash": "/1SRN5BuLxo=",
   "success": true,
-  "projectFilePath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj",
+  "projectFilePath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ProductCatalog/ProductCatalog.Services/ProductCatalog.Services.csproj",
   "expectedPackageFiles": [
     "/Users/larusthor/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/larusthor/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

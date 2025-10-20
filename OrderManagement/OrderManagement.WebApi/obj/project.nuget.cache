@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xg6J5NMPy6g=",
+  "dgSpecHash": "khs2zKOhbDk=",
   "success": true,
-  "projectFilePath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/ecommerce-web/OrderManagement/OrderManagement.WebApi/OrderManagement.WebApi.csproj",
+  "projectFilePath": "/Users/larusthor/RiderProjects/LA2_E-Commerce/OrderManagement/OrderManagement.WebApi/OrderManagement.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/larusthor/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/larusthor/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",

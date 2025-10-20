@@ -41,7 +41,7 @@ public class ProductsController : ControllerBase
     [HttpPut("{id}")]
     public async Task<IActionResult> UpdateProduct(int id, [FromBody] ProductInputModel product)
     {
-        var success = await _productService.UpdateProduct(id, product); // ✅ await here
+        var success = await _productService.UpdateProduct(id, product);
         if (!success) return NotFound();
         return Ok();
     }
