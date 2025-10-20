@@ -18,7 +18,7 @@ builder.Services.AddDbContext<OrderManagementDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("OrderManagementConnection")));
 
 builder.Services.AddScoped<IOrdersRepository, OrdersRepository>();
-builder.Services.AddScoped<IOrderService, OrdersService>();
+builder.Services.AddScoped<IOrdersService, OrdersService>();
 
 var app = builder.Build();
 
@@ -29,6 +29,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.MapControllers();
 
 app.Run();
 

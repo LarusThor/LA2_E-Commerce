@@ -33,4 +33,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.MapControllers();
+
+Console.WriteLine("📦 DB Connection: " + builder.Configuration.GetConnectionString("ProductCatalogConnection"));
+
 app.Run();

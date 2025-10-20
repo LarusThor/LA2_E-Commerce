@@ -30,30 +30,27 @@ public class ProductsController : ControllerBase
     }
     
     [HttpPost]
-    // Add authentication later?
-    public IActionResult CreateArtist([FromBody] ProductInputModel product)
+    public async Task<IActionResult> CreateProduct([FromBody] ProductInputModel product)
     {
+        var result = await _productService.CreateProduct(product);
+        if (!result) return BadRequest();
         return Ok(product);
     }
+
     
     [HttpPut("{id}")]
-    // Add authentication later?
     public async Task<IActionResult> UpdateProduct(int id, [FromBody] ProductInputModel product)
     {
-        var ok = await _productService.UpdateProduct(id, product);
-        if (!ok) return NotFound();
-        return NoContent();
+        var success = await _productService.UpdateProduct(id, product); // ✅ await here
+        if (!success) return NotFound();
+        return Ok();
     }
-    
+
     [HttpDelete("{id}")]
-    // Add authentication later?
     public async Task<IActionResult> DeleteProduct(int id)
     {
-        var success = await _productService.DeleteProduct(id);
-        if (success == true)
-        {
-            return NoContent();
-        }
-        return NotFound();
+        var success = await _productService.DeleteProduct(id); // ✅ await here
+        if (!success) return NotFound();
+        return NoContent();
     }
 }

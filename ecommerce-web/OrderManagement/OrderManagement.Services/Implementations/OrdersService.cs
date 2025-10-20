@@ -5,7 +5,7 @@ using OrderManagement.Models.InputModels;
 using OrderManagement.Repositories.Interfaces;
 using OrderManagement.Services.Interfaces;
 
-public class OrdersService : IOrderService
+public class OrdersService : IOrdersService
 {
     private readonly IOrdersRepository _ordersRepository;
 
@@ -19,7 +19,7 @@ public class OrdersService : IOrderService
         return _ordersRepository.getOrderById(id);
     }
 
-    public IEnumerable<OrderDto> getAllOrders()
+    public IEnumerable<OrderListDto> getAllOrders()
     {
         return _ordersRepository.getAllOrders();
     }
@@ -29,9 +29,9 @@ public class OrdersService : IOrderService
         return _ordersRepository.getOrderForUser(username);
     }
 
-    public Task<bool> CreateOrder(OrderInputModel order)
+    public async Task<bool> CreateOrder(OrderInputModel order)
     {   
-        return _ordersRepository.CreateOrder(order);
+        return await _ordersRepository.CreateOrder(order);
     }
     
 }

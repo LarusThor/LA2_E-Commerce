@@ -19,18 +19,18 @@ public class CategoryService : ICategoryService
         return _categoriesRepository.GetCategories();
     }
 
-    public Task<bool> CreateCategory(CategoryInputModel category)
+    public async Task<bool> CreateCategory(CategoryInputModel category)
     {
-        return _categoriesRepository.CreateCategory(category);
+        return await _categoriesRepository.CreateCategory(category);
     }
 
-    public Task<bool> UpdateCategory(int id, CategoryInputModel category)
+    public async Task<bool> UpdateCategory(int id, CategoryInputModel category)
     {
-        return _categoriesRepository.UpdateCategory(id, category);
+        return await _categoriesRepository.UpdateCategory(id, category);
     }
 
-    public Task<bool> DeleteCategory(int id)
+    public async Task<bool> DeleteCategory(int id)
     {
-        return _categoriesRepository.DeleteCategory(id);
+        return await _categoriesRepository.DeleteCategory(id);
     }
 }

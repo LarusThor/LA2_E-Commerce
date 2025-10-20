@@ -24,14 +24,14 @@ public class CategoriesController : ControllerBase
     }
     
     [HttpPost]
-    // Add authentication later?
-    public IActionResult CreateCategory([FromBody] CategoryInputModel category)
+    public async Task<IActionResult> CreateCategory([FromBody] CategoryInputModel category)
     {
+        var result = await  _categoryService.CreateCategory(category);
+        if (!result) return BadRequest();
         return Ok(category);
     }
     
     [HttpPut("{id}")]
-    // Add authentication later?
     public async Task<IActionResult> UpdateCategory(int id, [FromBody] CategoryInputModel category)
     {
         var ok = await _categoryService.UpdateCategory(id, category);
@@ -40,7 +40,6 @@ public class CategoriesController : ControllerBase
     }
     
     [HttpDelete("{id}")]
-    // Add authentication later?
     public async Task<IActionResult> DeleteCategory(int id)
     {
         var success = await _categoryService.DeleteCategory(id);

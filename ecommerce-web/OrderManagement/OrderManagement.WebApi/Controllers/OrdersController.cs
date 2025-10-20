@@ -6,11 +6,11 @@ namespace OrderManagement.WebApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class OrderController : ControllerBase
+public class OrdersController : ControllerBase
 {
-    private readonly IOrderService _orderService;
+    private readonly IOrdersService _orderService;
 
-    public OrderController(IOrderService orderService)
+    public OrdersController(IOrdersService orderService)
     {
         _orderService = orderService;
     }
@@ -30,8 +30,10 @@ public class OrderController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult CreateOrder([FromBody] OrderInputModel order)
+    public async Task<IActionResult> CreateOrder([FromBody] OrderInputModel order)
     {
+        var result = await _orderService.CreateOrder(order);
+        if (!result) return BadRequest();
         return Ok(order);
     }
 

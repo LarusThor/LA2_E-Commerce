@@ -24,18 +24,18 @@ public class ProductService : IProductService
         return _productsRepository.GetProductById(id);
     }
     
-    public Task<bool> CreateProduct(ProductInputModel product)
+    public async Task<bool> CreateProduct(ProductInputModel product)
     {
-        return _productsRepository.CreateProduct(product);
+        return await _productsRepository.CreateProduct(product);
     }
     
-    public Task<bool> UpdateProduct(int id, ProductInputModel product)
+    public async Task<bool> UpdateProduct(int id, ProductInputModel product)
     {
-        return _productsRepository.UpdateProduct(id, product);
+        return await _productsRepository.UpdateProduct(id, product);
     }
     
-    public Task<bool> DeleteProduct(int id)
+    public async Task<bool> DeleteProduct(int id)
     {
-        return _productsRepository.DeleteProduct(id);
+        return await _productsRepository.DeleteProduct(id);
     }
 }

@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using OrderManagement.Models.Dtos;
 using OrderManagement.Models.Entities;
 using OrderManagement.Models.InputModels;
@@ -34,20 +35,19 @@ public class OrdersRepository : IOrdersRepository
         return order;
     }
 
-    public IEnumerable<OrderDto> getAllOrders()
+    public IEnumerable<OrderListDto> getAllOrders()
     {
         var query = _dbContext.Orders
-            .Select(o => new OrderDto()
+            .AsNoTracking() 
+            .Select(o => new OrderListDto()
             {
                 id = o.id,
                 emailAddress = o.emailAddress,
-                Items = o.Items,
                 totalAmount = o.totalAmount,
                 status = o.status,
-                shippingAddress = o.shippingAddress,
                 CreatedAt = o.CreatedAt,
-                UpdatedAt = o.UpdatedAt
             });
+        
         return query.ToList();
     }
 

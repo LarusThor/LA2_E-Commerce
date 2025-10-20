@@ -4,10 +4,10 @@ using OrderManagement.Models.InputModels;
 
 namespace OrderManagement.Services.Interfaces;
 
-public interface IOrderService
+public interface IOrdersService
 {
     public OrderDto getOrderById(int id);
-    public IEnumerable<OrderDto> getAllOrders();
+    public IEnumerable<OrderListDto> getAllOrders();
     public IEnumerable<OrderSummaryDto> getOrderForUser(string username);
     public Task<bool> CreateOrder(OrderInputModel order);
 }

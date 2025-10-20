@@ -57,6 +57,7 @@ public class ProductsRepository : IProductsRepository
             price = product.price,
             categoryId = product.categoryId
         });
+        Console.WriteLine($"✅ Saving product: {product.name}");
         await _dbContext.SaveChangesAsync();
         return true;
     }
